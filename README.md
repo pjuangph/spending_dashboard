@@ -3,8 +3,10 @@ The goal of this project is to read pdf files from credit card and bank statemen
 
 ## Getting Started
 ### Installing Dependancies
-pip install --upgrade PyPDF2==2.12.1
 
+```
+pip install tabula-py PyPDF2
+```
 
 ## Support for the following credit cards
 1. Apple Card (Working)
